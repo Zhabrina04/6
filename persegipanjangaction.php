@@ -9,7 +9,7 @@
 <?php
     $panjang=$_POST['panjang'];
     $lebar=$_POST['lebar'];
-    
+    // CONTOH
     $luas= $panjang * $lebar;
     $keliling= 2 * ($panjang * $lebar);
     ?>
